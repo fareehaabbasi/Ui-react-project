@@ -2,7 +2,7 @@ import React from 'react'
 
 const RightCard = () => {
   return (
-    <div>
+    <div className='h-full w-80 bg-amber-900'>
       <h1>
       Right side work
       </h1>
@@ -10,4 +10,4 @@ const RightCard = () => {
   )
 }
 
-export default RightCard
+export default RightCard 
