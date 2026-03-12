@@ -11,6 +11,7 @@ const RightCard = () => {
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe excepturi beatae, adipisci nostrum repellendus dolor?</p>
           <div>
             <button>Satisfied</button>
+            
             <ArrowRight />
           </div>
         </div>
