@@ -10,7 +10,7 @@ const RightCard = () => {
         <div>
           <p className='text-sm leading-normal text-white mb-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe excepturi beatae, adipisci nostrum repellendus dolor?</p>
           <div className='flex justify-between'>
-            <button className='bg-blue-800 text-white font-medium px-8 py-2 text-sm rounded-full'>Satisfied</button>
+            <button className='bg-blue-800 text-white font-medium px-8 py-2 text-sm rounded-full text-gray-600'>Satisfied</button>
             <button className='bg-blue-800 text-white font-medium px-3 py-2 text-sm rounded-full'><ArrowRight /></button>
           </div>
         </div>
