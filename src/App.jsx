@@ -12,12 +12,12 @@ const App = () => {
   {
     img: '',
     intro: '',
-    tags:''
+    tags:'Underserved'
   },
   {
     img: '',
     intro: '',
-    tags:''
+    tags:'Underbanked'
   }
   ]
 
