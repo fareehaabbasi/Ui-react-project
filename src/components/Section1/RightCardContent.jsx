@@ -9,8 +9,8 @@ const RightCardContent = (props) => {
         <div>
           <p className='text-sm leading-normal text-white mb-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe excepturi beatae, adipisci nostrum repellendus dolor?</p>
           <div className='flex justify-between'>
-            <button className='bg-blue-800 text-white font-medium px-8 py-2 text-sm rounded-full '>{props.tags}</button>
-            <button className='bg-blue-800 text-white font-medium px-3 py-2 text-sm rounded-full'><ArrowRight /></button>
+            <button style={{backgroundColor:props.color}} className=' text-white font-medium px-8 py-2 text-sm rounded-full '>{props.tags}</button>
+            <button style={{backgroundColor:props.color}}  className='bg-blue-800 text-white font-medium px-3 py-2 text-sm rounded-full'><ArrowRight /></button>
           </div>
         </div>
       </div>
