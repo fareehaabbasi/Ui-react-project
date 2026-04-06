@@ -13,6 +13,8 @@ const RightCardContent = (props) => {
             <button style={{backgroundColor:props.color}}  className='bg-blue-800 text-white font-medium px-3 py-2 text-sm rounded-full'><ArrowRight /></button>
           </div>
         </div>
+
+        
       </div>
     </div>
   )
